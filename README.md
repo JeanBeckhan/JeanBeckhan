@@ -1,5 +1,5 @@
 ## Hi there 👋
- Eu sou Gay
+ 
 
  <h1>Uninorte</h1>
 <!--
