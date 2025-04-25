@@ -1,6 +1,6 @@
 ## Hi there 👋
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Matheus+Maia+Alvarez;I'm+18+years+old;I+am+from+Carapicuíba,+SP;I+study+analysis+and+systems+development+at+Senac;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+Jean+Beckhan+Ribeiro+Natario;I'm+21+years+old;I+am+from+Manaus,+AM;I+study+analysis+and+systems+development+at+Uinorte;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
  <h1>Uninorte</h1>
